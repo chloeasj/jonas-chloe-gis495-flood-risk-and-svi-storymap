@@ -8,6 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 
 ## Live links (replace with your own)
+- https://chloeasj.github.io/jonas-chloe-gis495-flood-risk-and-svi-storymap/
 - Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
 
 ## Create Your Own
